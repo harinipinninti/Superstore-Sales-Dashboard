@@ -5,12 +5,12 @@ E-Commerce Sales Insights Dashboard
 2. Short Description
 This project features an interactive Power BI dashboard built to analyze Superstore e-commerce sales data. It provides insights into category-wise, regional, and segment-wise performance, along with customer behavior and monthly sales trends. The dashboard helps track key metrics like total sales, orders, and top-performing products for better business decisions.
 
-3.Tech Stack
-The dashboard was built using the following tools and technologies:
-📊 Power BI – Interactive dashboard & visualizations.
-📑 Excel / CSV (Superstore Dataset) – Source data.
-🔢 DAX (Data Analysis Expressions) – Calculated measures & KPIs.
-⚡ Power Query – Data cleaning & transformation.
+ 3.Tech Stack
+  The dashboard was built using the following tools and technologies:
+  📊 Power BI – Interactive dashboard & visualizations.
+  📑 Excel / CSV (Superstore Dataset) – Source data.
+  🔢 DAX (Data Analysis Expressions) – Calculated measures & KPIs.
+  ⚡ Power Query – Data cleaning & transformation.
 
 4. Data Source
 Source: Superstore Sales Analysis from Kaggle 
