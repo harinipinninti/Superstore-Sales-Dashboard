@@ -58,4 +58,4 @@ By leveraging these insights, businesses can **strengthen decision-making, captu
 
 ## 6. Screenshots
 ![Alt Text](relative/path/to/image.png)
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview](https://github.com/harinipinninti/Superstore-Sales-Dashboard/blob/main/E-commerce%20dashboard.PNG)
