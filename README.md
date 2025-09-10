@@ -37,4 +37,4 @@ Business Impact & Insights
 The dashboard provides actionable insights into e-commerce performance by identifying Technology as the strongest revenue driver, Phones and Chairs as leading products, and the Consumer segment as the most profitable customer group. With the West region emerging as the top-performing market and seasonal peaks observed in March and October, the analysis supports marketing optimization, strategic expansion, smarter inventory planning, and accurate revenue forecasting. These insights empower businesses to strengthen decision-making, capture growth opportunities, and stay competitive in dynamic market conditions.
 
 6. Screenshots
-
+https://github.com/harinipinninti/Superstore-Sales-Dashboard/blob/main/E-commerce%20dashboard.PNG
