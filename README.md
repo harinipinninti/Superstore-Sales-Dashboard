@@ -57,4 +57,4 @@ These insights support:
 By leveraging these insights, businesses can **strengthen decision-making, capture growth opportunities, and stay competitive** in dynamic market conditions.
 
 ## 6. Screenshots
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview]([images/dashboard.png](https://github.com/harinipinninti/Superstore-Sales-Dashboard/blob/main/E-commerce%20dashboard.PNG))
