@@ -1,22 +1,22 @@
 # Superstore-Sales-Dashboard
-1. Project Title
+1.  Project Title
 E-Commerce Sales Insights Dashboard
 
-2. Short Description
+2.  Short Description
 This project features an interactive Power BI dashboard built to analyze Superstore e-commerce sales data. It provides insights into category-wise, regional, and segment-wise performance, along with customer behavior and monthly sales trends. The dashboard helps track key metrics like total sales, orders, and top-performing products for better business decisions.
 
-3. Tech Stack
+3.  Tech Stack
   The dashboard was built using the following tools and technologies:
   📊 Power BI – Interactive dashboard & visualizations.
   📑 Excel / CSV (Superstore Dataset) – Source data.
   🔢 DAX (Data Analysis Expressions) – Calculated measures & KPIs.
   ⚡ Power Query – Data cleaning & transformation.
 
- 4. Data Source
+ 4.  Data Source
 Source: Superstore Sales Analysis from Kaggle 
  The dashboard is built using the Superstore Sales Dataset, a popular sample dataset for practicing data analysis and visualization. It contains details about orders, customers, products, categories, sales, profit, and regional performance.
 
-5. Features/Highlights
+5.   Features/Highlights
 Business Problem
 E-commerce businesses generate huge amounts of sales data, but raw numbers don’t reveal clear insights. This dashboard solves that problem by transforming sales data into actionable insights for better decision-making.
 
@@ -36,5 +36,5 @@ Key Visuals
 Business Impact & Insights 
 The dashboard provides actionable insights into e-commerce performance by identifying Technology as the strongest revenue driver, Phones and Chairs as leading products, and the Consumer segment as the most profitable customer group. With the West region emerging as the top-performing market and seasonal peaks observed in March and October, the analysis supports marketing optimization, strategic expansion, smarter inventory planning, and accurate revenue forecasting. These insights empower businesses to strengthen decision-making, capture growth opportunities, and stay competitive in dynamic market conditions.
 
-6. Screenshots
+6.  Screenshots
 https://github.com/harinipinninti/Superstore-Sales-Dashboard/blob/main/E-commerce%20dashboard.PNG
